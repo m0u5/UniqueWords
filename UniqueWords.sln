@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueWords", "UniqueWords\UniqueWords.csproj", "{596E1666-1B97-408C-BEE2-025AD574AF60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueWords", "UniqueWords\UniqueWords.csproj", "{596E1666-1B97-408C-BEE2-025AD574AF60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLQueries", "SQLQueries", "{9C409576-3A55-4547-A23B-88B24FC3331F}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\the13\OneDrive\Документы\SQL Server Management Studio\task.sql = C:\Users\the13\OneDrive\Документы\SQL Server Management Studio\task.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
